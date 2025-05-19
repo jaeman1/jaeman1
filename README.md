@@ -5,7 +5,7 @@
 - 📫 How to reach me: simwin@soongsil.ac.kr
 
 [![Dreamhack.com
-프로필]()
+프로필](https://dreamhack.io/mypage)
 
 - 📝[이력서]()
 - 📑[포트폴리오]()
